@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End to End Data Science Project
 
 ### Workflows--ML Pipeline
@@ -18,3 +19,6 @@
 6. Update the components
 7. Update the pipeline 
 8. Update the main.py
+=======
+# datascienecproject 1 
+>>>>>>> 37867989d97c60e5d148161784df6171fe24ee18
